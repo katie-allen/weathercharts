@@ -1,0 +1,4 @@
+datatype,units
+TMAX,celcius_tenths
+WDF2,degrees
+WSF2,meters_per_sec_tenths
